@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskAppCoreCourseBasma", "TaskAppCoreCourseBasma\TaskAppCoreCourseBasma.csproj", "{971B19BE-E4FD-4C38-976B-E378C25B8FE1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{971B19BE-E4FD-4C38-976B-E378C25B8FE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{971B19BE-E4FD-4C38-976B-E378C25B8FE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{971B19BE-E4FD-4C38-976B-E378C25B8FE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{971B19BE-E4FD-4C38-976B-E378C25B8FE1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AEE510CF-BD97-4EF8-800C-4C0572CE1403}
+	EndGlobalSection
+EndGlobal

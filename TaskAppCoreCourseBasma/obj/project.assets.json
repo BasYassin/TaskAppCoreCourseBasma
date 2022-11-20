@@ -1,0 +1,242 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Microsoft.EntityFrameworkCore.SqlServer >= 3.1.30",
+      "Microsoft.EntityFrameworkCore.Tools >= 3.1.30",
+      "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 3.1.5"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Basma Farag\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\git repo\\TaskAppCoreCourseBasma\\TaskAppCoreCourseBasma\\TaskAppCoreCourseBasma.csproj",
+      "projectName": "TaskAppCoreCourseBasma",
+      "projectPath": "C:\\git repo\\TaskAppCoreCourseBasma\\TaskAppCoreCourseBasma\\TaskAppCoreCourseBasma.csproj",
+      "packagesPath": "C:\\Users\\Basma Farag\\.nuget\\packages\\",
+      "outputPath": "C:\\git repo\\TaskAppCoreCourseBasma\\TaskAppCoreCourseBasma\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Basma Farag\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.SqlServer": {
+            "target": "Package",
+            "version": "[3.1.30, )"
+          },
+          "Microsoft.EntityFrameworkCore.Tools": {
+            "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+            "suppressParent": "All",
+            "target": "Package",
+            "version": "[3.1.30, )"
+          },
+          "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+            "target": "Package",
+            "version": "[3.1.5, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU5000",
+      "level": "Error",
+      "message": "An error occurred while retrieving package metadata for 'System.Reflection.4.3.0' from source 'C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder'."
+    },
+    {
+      "code": "NU5000",
+      "level": "Error",
+      "message": "An error occurred while retrieving package metadata for 'System.Collections.4.3.0' from source 'C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder'."
+    },
+    {
+      "code": "NU5000",
+      "level": "Error",
+      "message": "An error occurred while retrieving package metadata for 'System.Diagnostics.Debug.4.3.0' from source 'C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder'."
+    },
+    {
+      "code": "NU5000",
+      "level": "Error",
+      "message": "An error occurred while retrieving package metadata for 'System.Diagnostics.Tools.4.3.0' from source 'C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder'."
+    },
+    {
+      "code": "NU5000",
+      "level": "Error",
+      "message": "An error occurred while retrieving package metadata for 'System.Globalization.4.3.0' from source 'C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder'."
+    },
+    {
+      "code": "NU5000",
+      "level": "Error",
+      "message": "An error occurred while retrieving package metadata for 'System.Linq.4.3.0' from source 'C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder'."
+    },
+    {
+      "code": "NU5000",
+      "level": "Error",
+      "message": "An error occurred while retrieving package metadata for 'System.Linq.Expressions.4.3.0' from source 'C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder'."
+    },
+    {
+      "code": "NU5000",
+      "level": "Error",
+      "message": "An error occurred while retrieving package metadata for 'System.Reflection.Extensions.4.3.0' from source 'C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder'."
+    },
+    {
+      "code": "NU5000",
+      "level": "Error",
+      "message": "An error occurred while retrieving package metadata for 'System.AppContext.4.3.0' from source 'C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder'."
+    },
+    {
+      "code": "NU5000",
+      "level": "Error",
+      "message": "An error occurred while retrieving package metadata for 'System.Globalization.Calendars.4.3.0' from source 'C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder'."
+    },
+    {
+      "code": "NU5000",
+      "level": "Error",
+      "message": "An error occurred while retrieving package metadata for 'System.Buffers.4.3.0' from source 'C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder'."
+    },
+    {
+      "code": "NU5000",
+      "level": "Error",
+      "message": "An error occurred while retrieving package metadata for 'System.IO.FileSystem.4.3.0' from source 'C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder'."
+    },
+    {
+      "code": "NU5000",
+      "level": "Error",
+      "message": "An error occurred while retrieving package metadata for 'System.IO.FileSystem.Primitives.4.3.0' from source 'C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder'."
+    },
+    {
+      "code": "NU5000",
+      "level": "Error",
+      "message": "An error occurred while retrieving package metadata for 'System.Diagnostics.DiagnosticSource.4.3.0' from source 'C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder'."
+    },
+    {
+      "code": "NU5000",
+      "level": "Error",
+      "message": "An error occurred while retrieving package metadata for 'System.Globalization.Extensions.4.3.0' from source 'C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder'."
+    },
+    {
+      "code": "NU5000",
+      "level": "Error",
+      "message": "An error occurred while retrieving package metadata for 'System.Security.Cryptography.Algorithms.4.3.0' from source 'C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder'."
+    },
+    {
+      "code": "NU5000",
+      "level": "Error",
+      "message": "An error occurred while retrieving package metadata for 'System.Security.Cryptography.Cng.4.3.0' from source 'C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder'."
+    },
+    {
+      "code": "NU5000",
+      "level": "Error",
+      "message": "An error occurred while retrieving package metadata for 'System.Text.Encoding.4.3.0' from source 'C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder'."
+    },
+    {
+      "code": "NU5000",
+      "level": "Error",
+      "message": "An error occurred while retrieving package metadata for 'System.Text.Encoding.Extensions.4.3.0' from source 'C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder'."
+    },
+    {
+      "code": "NU5000",
+      "level": "Error",
+      "message": "An error occurred while retrieving package metadata for 'System.Threading.Timer.4.3.0' from source 'C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder'."
+    },
+    {
+      "code": "NU5000",
+      "level": "Error",
+      "message": "An error occurred while retrieving package metadata for 'System.Xml.ReaderWriter.4.3.0' from source 'C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder'."
+    },
+    {
+      "code": "NU5000",
+      "level": "Error",
+      "message": "An error occurred while retrieving package metadata for 'System.Text.Encodings.Web.4.5.0' from source 'C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder'."
+    },
+    {
+      "code": "NU5000",
+      "level": "Error",
+      "message": "An error occurred while retrieving package metadata for 'Newtonsoft.Json.11.0.2' from source 'C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder'."
+    },
+    {
+      "code": "NU5000",
+      "level": "Error",
+      "message": "An error occurred while retrieving package metadata for 'System.Security.AccessControl.4.5.0' from source 'C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder'."
+    },
+    {
+      "code": "NU5000",
+      "level": "Error",
+      "message": "An error occurred while retrieving package metadata for 'System.Text.Encoding.CodePages.4.5.0' from source 'C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder'."
+    },
+    {
+      "code": "NU5000",
+      "level": "Error",
+      "message": "An error occurred while retrieving package metadata for 'System.Private.DataContractSerialization.4.3.0' from source 'C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder'."
+    },
+    {
+      "code": "NU5000",
+      "level": "Error",
+      "message": "An error occurred while retrieving package metadata for 'System.Runtime.Serialization.Primitives.4.3.0' from source 'C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder'."
+    },
+    {
+      "code": "NU5000",
+      "level": "Error",
+      "message": "An error occurred while retrieving package metadata for 'System.Reflection.Emit.4.3.0' from source 'C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder'."
+    },
+    {
+      "code": "NU5000",
+      "level": "Error",
+      "message": "An error occurred while retrieving package metadata for 'System.Reflection.Emit.ILGeneration.4.3.0' from source 'C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder'."
+    }
+  ]
+}
